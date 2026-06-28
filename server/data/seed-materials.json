@@ -1,0 +1,72 @@
+[
+  { "sku": "CEM-GRIS-50", "nombre": "Cemento gris CPC 30R, saco 50 kg", "categoria": "Cemento y aglomerantes", "unidad": "saco", "precio": 292, "urlFuente": "https://preciosdematerialesdeconstruccion.com.mx/cemento/504-cemento-gris-tolteca-saco-de-50kg.html" },
+  { "sku": "CEM-GRIS-25", "nombre": "Cemento gris, saco 25 kg", "categoria": "Cemento y aglomerantes", "unidad": "saco", "precio": 139, "urlFuente": "https://preciosdematerialesdeconstruccion.com.mx/cemento/2065-cemento-gris-tolteca-saco-de-25kg.html" },
+  { "sku": "CEM-BLANCO-25", "nombre": "Cemento blanco, saco 25 kg", "categoria": "Cemento y aglomerantes", "unidad": "saco", "precio": 266, "urlFuente": "https://preciosdematerialesdeconstruccion.com.mx/cemento/498-cemento-blanco-tolteca-saco-de-25kg.html" },
+  { "sku": "CEM-MORTERO-50", "nombre": "Cemento mortero, saco 50 kg", "categoria": "Cemento y aglomerantes", "unidad": "saco", "precio": 250 },
+  { "sku": "CAL-25", "nombre": "Cal hidratada, saco 25 kg", "categoria": "Cemento y aglomerantes", "unidad": "saco", "precio": 110 },
+  { "sku": "YESO-40", "nombre": "Yeso, saco 40 kg", "categoria": "Cemento y aglomerantes", "unidad": "saco", "precio": 175 },
+
+  { "sku": "AGR-ARENA", "nombre": "Arena de rio", "categoria": "Agregados", "unidad": "m3", "precio": 480 },
+  { "sku": "AGR-GRAVA", "nombre": "Grava 3/4\"", "categoria": "Agregados", "unidad": "m3", "precio": 520 },
+  { "sku": "AGR-GRAVILLA", "nombre": "Gravilla", "categoria": "Agregados", "unidad": "m3", "precio": 540 },
+  { "sku": "AGR-TEPETATE", "nombre": "Tepetate", "categoria": "Agregados", "unidad": "m3", "precio": 380 },
+  { "sku": "AGR-POLVO", "nombre": "Polvo de piedra (sello)", "categoria": "Agregados", "unidad": "m3", "precio": 420 },
+  { "sku": "AGR-AGUA", "nombre": "Agua en pipa 10,000 L", "categoria": "Agregados", "unidad": "pipa", "precio": 1200 },
+
+  { "sku": "ACE-VAR-38", "nombre": "Varilla corrugada 3/8\" (9.5 mm) x 12 m", "categoria": "Acero y refuerzo", "unidad": "pieza", "precio": 165 },
+  { "sku": "ACE-VAR-12", "nombre": "Varilla corrugada 1/2\" (12.7 mm) x 12 m", "categoria": "Acero y refuerzo", "unidad": "pieza", "precio": 295 },
+  { "sku": "ACE-ALAMBRON", "nombre": "Alambron 1/4\" x 12 m", "categoria": "Acero y refuerzo", "unidad": "pieza", "precio": 60 },
+  { "sku": "ACE-MALLA", "nombre": "Malla electrosoldada 6x6-10/10 (2.40 x 6 m)", "categoria": "Acero y refuerzo", "unidad": "hoja", "precio": 980 },
+  { "sku": "ACE-ALAMBRE-18", "nombre": "Alambre recocido cal. 18", "categoria": "Acero y refuerzo", "unidad": "kg", "precio": 35 },
+  { "sku": "ACE-CLAVO", "nombre": "Clavo para madera 2 1/2\"", "categoria": "Acero y refuerzo", "unidad": "kg", "precio": 38 },
+  { "sku": "ACE-ARMEX-15", "nombre": "Armex 15x15x15 (castillo) x 6 m", "categoria": "Acero y refuerzo", "unidad": "pieza", "precio": 165 },
+  { "sku": "ACE-ARMEX-10", "nombre": "Armex 10x10 (castillo) x 6 m", "categoria": "Acero y refuerzo", "unidad": "pieza", "precio": 120 },
+
+  { "sku": "MUR-BLOCK-15", "nombre": "Block hueco 15x20x40", "categoria": "Block, tabique y muros", "unidad": "pieza", "precio": 16 },
+  { "sku": "MUR-BLOCK-12", "nombre": "Block hueco 12x20x40", "categoria": "Block, tabique y muros", "unidad": "pieza", "precio": 14 },
+  { "sku": "MUR-BLOCK-20", "nombre": "Block de concreto 20x20x40", "categoria": "Block, tabique y muros", "unidad": "pieza", "precio": 22 },
+  { "sku": "MUR-TABIQUE", "nombre": "Tabique rojo recocido", "categoria": "Block, tabique y muros", "unidad": "pieza", "precio": 4.5 },
+  { "sku": "MUR-TABICON", "nombre": "Tabicon gris 12x20x40", "categoria": "Block, tabique y muros", "unidad": "pieza", "precio": 12 },
+
+  { "sku": "ADH-PEGAZULEJO", "nombre": "Mortero pegazulejo gris, saco 20 kg", "categoria": "Morteros y adhesivos", "unidad": "saco", "precio": 95 },
+  { "sku": "ADH-PEGAPISO", "nombre": "Adhesivo pegapiso reforzado, saco 20 kg", "categoria": "Morteros y adhesivos", "unidad": "saco", "precio": 175 },
+  { "sku": "ADH-BOQUILLA", "nombre": "Boquilla / junteador, bolsa 1 kg", "categoria": "Morteros y adhesivos", "unidad": "bolsa", "precio": 28 },
+  { "sku": "ADH-PEGAPVC", "nombre": "Pegamento PVC 250 ml", "categoria": "Morteros y adhesivos", "unidad": "bote", "precio": 75 },
+
+  { "sku": "TAB-PANEL-12", "nombre": "Panel de yeso 1/2\" 1.22 x 2.44 m", "categoria": "Tablaroca y plafones", "unidad": "hoja", "precio": 215 },
+  { "sku": "TAB-PANEL-RH", "nombre": "Panel resistente a la humedad 1/2\"", "categoria": "Tablaroca y plafones", "unidad": "hoja", "precio": 320 },
+  { "sku": "TAB-POSTE", "nombre": "Poste metalico 2 1/2\" x 3.05 m", "categoria": "Tablaroca y plafones", "unidad": "pieza", "precio": 95 },
+  { "sku": "TAB-CANAL", "nombre": "Canal metalico 2 1/2\" x 3.05 m", "categoria": "Tablaroca y plafones", "unidad": "pieza", "precio": 85 },
+  { "sku": "TAB-PASTA", "nombre": "Pasta lista para junteo, cubeta 18 kg", "categoria": "Tablaroca y plafones", "unidad": "cubeta", "precio": 320 },
+  { "sku": "TAB-CINTA", "nombre": "Cinta de refuerzo para juntas 75 m", "categoria": "Tablaroca y plafones", "unidad": "rollo", "precio": 45 },
+
+  { "sku": "IMP-ACRILICO", "nombre": "Impermeabilizante acrilico 5 anos, cubeta 19 L", "categoria": "Impermeabilizantes y pinturas", "unidad": "cubeta", "precio": 980 },
+  { "sku": "IMP-SELLADOR", "nombre": "Sellador 5x1, cubeta 19 L", "categoria": "Impermeabilizantes y pinturas", "unidad": "cubeta", "precio": 650 },
+  { "sku": "PIN-VINILICA", "nombre": "Pintura vinilica interior, cubeta 19 L", "categoria": "Impermeabilizantes y pinturas", "unidad": "cubeta", "precio": 720 },
+  { "sku": "PIN-ESMALTE", "nombre": "Pintura esmalte, bote 4 L", "categoria": "Impermeabilizantes y pinturas", "unidad": "bote", "precio": 420 },
+
+  { "sku": "HID-PVC-12", "nombre": "Tubo PVC hidraulico 1/2\" x 6 m", "categoria": "Instalacion hidraulica", "unidad": "tramo", "precio": 95 },
+  { "sku": "HID-PVC-SAN4", "nombre": "Tubo PVC sanitario 4\" x 6 m", "categoria": "Instalacion hidraulica", "unidad": "tramo", "precio": 280 },
+  { "sku": "HID-CPVC-12", "nombre": "Tubo CPVC 1/2\" x 6 m (agua caliente)", "categoria": "Instalacion hidraulica", "unidad": "tramo", "precio": 130 },
+  { "sku": "HID-TINACO", "nombre": "Tinaco 1,100 L tricapa", "categoria": "Instalacion hidraulica", "unidad": "pieza", "precio": 1650 },
+  { "sku": "HID-CISTERNA", "nombre": "Cisterna 1,200 L", "categoria": "Instalacion hidraulica", "unidad": "pieza", "precio": 4200 },
+  { "sku": "HID-CODO4", "nombre": "Codo PVC sanitario 4\" x 90", "categoria": "Instalacion hidraulica", "unidad": "pieza", "precio": 35 },
+  { "sku": "HID-LLAVE", "nombre": "Llave de nariz 1/2\"", "categoria": "Instalacion hidraulica", "unidad": "pieza", "precio": 65 },
+
+  { "sku": "ELE-CABLE-12", "nombre": "Cable THW cal. 12, rollo 100 m", "categoria": "Instalacion electrica", "unidad": "rollo", "precio": 980 },
+  { "sku": "ELE-CABLE-10", "nombre": "Cable THW cal. 10, rollo 100 m", "categoria": "Instalacion electrica", "unidad": "rollo", "precio": 1500 },
+  { "sku": "ELE-CONDUIT", "nombre": "Tubo conduit PVC 1/2\" x 3 m", "categoria": "Instalacion electrica", "unidad": "tramo", "precio": 38 },
+  { "sku": "ELE-CHALUPA", "nombre": "Caja chalupa galvanizada", "categoria": "Instalacion electrica", "unidad": "pieza", "precio": 12 },
+  { "sku": "ELE-APAGADOR", "nombre": "Apagador sencillo", "categoria": "Instalacion electrica", "unidad": "pieza", "precio": 38 },
+  { "sku": "ELE-CONTACTO", "nombre": "Contacto duplex polarizado", "categoria": "Instalacion electrica", "unidad": "pieza", "precio": 45 },
+  { "sku": "ELE-CENTRO4", "nombre": "Centro de carga 4 circuitos", "categoria": "Instalacion electrica", "unidad": "pieza", "precio": 520 },
+
+  { "sku": "ACA-CER-45", "nombre": "Piso ceramico 45x45 cm", "categoria": "Acabados", "unidad": "m2", "precio": 165 },
+  { "sku": "ACA-PORC-60", "nombre": "Porcelanato 60x60 cm", "categoria": "Acabados", "unidad": "m2", "precio": 320 },
+  { "sku": "ACA-AZULEJO", "nombre": "Azulejo para muro 25x40 cm", "categoria": "Acabados", "unidad": "m2", "precio": 145 },
+
+  { "sku": "MAD-TRIPLAY-18", "nombre": "Triplay de pino 18 mm 1.22 x 2.44 m", "categoria": "Madera y cimbra", "unidad": "hoja", "precio": 720 },
+  { "sku": "MAD-TRIPLAY-12", "nombre": "Triplay de pino 12 mm 1.22 x 2.44 m", "categoria": "Madera y cimbra", "unidad": "hoja", "precio": 520 },
+  { "sku": "MAD-POLIN", "nombre": "Polin de pino 3x3\" x 2.5 m", "categoria": "Madera y cimbra", "unidad": "pieza", "precio": 95 },
+  { "sku": "MAD-BARROTE", "nombre": "Barrote 2x4\" x 2.5 m", "categoria": "Madera y cimbra", "unidad": "pieza", "precio": 75 }
+]

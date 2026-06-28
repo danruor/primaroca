@@ -1,0 +1,19 @@
+{
+  "name": "constructora-app",
+  "version": "1.0.0",
+  "description": "App de gestion para constructora: dashboard, proyectos, cotizador y lista de materiales con precios actualizables. Optimizada para iPad (PWA).",
+  "type": "module",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "seed": "node server/seed.js --force"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "license": "MIT"
+}
